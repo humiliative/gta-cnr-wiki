@@ -9,7 +9,7 @@ Armory - view your weapons and attachments
 
 Job Menu - if you have a job, its options will show up there
 
-Phone - send a DM, call services such a police, take pictures and manage your party 
+Phone - send a DM, call services such the police, take pictures and manage your party 
 
 Vehicles - interact with owned vehicles
 
